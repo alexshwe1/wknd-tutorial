@@ -65,11 +65,11 @@
             
     <sling.user>admin</sling.user>
             
-    <sling.password>jambajuice</sling.password>
+    <sling.password>admin</sling.password>
             
     <vault.user>admin</vault.user>
             
-    <vault.password>jambajuice</vault.password>
+    <vault.password>admin</vault.password>
             
     <frontend-maven-plugin.version>1.12.0</frontend-maven-plugin.version>
             
