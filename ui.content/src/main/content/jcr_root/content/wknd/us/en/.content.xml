@@ -79,4 +79,5 @@
             </container>
         </root>
     </jcr:content>
+    <component-basics/>
 </jcr:root>
